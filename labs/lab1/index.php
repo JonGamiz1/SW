@@ -1,3 +1,2 @@
 <?php
-    php.info();
-php>
+    phpinfo();
